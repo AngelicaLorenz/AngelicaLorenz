@@ -1,27 +1,42 @@
-## 👩‍💻 Olá! Eu sou a Angélica Lorenz
+<h1 align="center">Olá, eu sou a Angélica Lorenz 👩‍💻</h1>
 
-💡 **Front-End Developer** com background em Design Gráfico, evoluindo constantemente para me tornar **Full Stack**.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=000&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI+%2F+UX+Lover;Em+evolução+para+Full+Stack" />
+</p>
 
----
-
-## ✨ Sobre mim
-
-Sou desenvolvedora Front-End com um olhar apurado para design e experiência do usuário.  
-Minha base no design gráfico me ensinou que cada detalhe importa — e levo isso para o código, criando interfaces modernas, responsivas e funcionais.
-
-Atualmente, estou expandindo meus conhecimentos em Back-End, buscando construir aplicações completas e bem estruturadas.
+<p align="center">
+💡 Front-End Developer com background em Design Gráfico, criando interfaces modernas, funcionais e centradas no usuário.
+</p>
 
 ---
 
 ## 🚀 Tecnologias
 
-<p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angelicalorenz&show_icons=true&theme=default"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalorenz&layout=compact"/>
+</p>
+
+---
+
+## ✨ Sobre mim
+
+Sou desenvolvedora Front-End com um olhar apurado para design e experiência do usuário.  
+Minha base no design gráfico me ensinou que cada detalhe importa — e levo isso para o código, criando interfaces modernas, responsivas e eficientes.
+
+Atualmente, estou evoluindo para o Back-End, com foco em construir aplicações completas e bem estruturadas.
 
 ---
 
@@ -37,13 +52,13 @@ Atualmente, estou expandindo meus conhecimentos em Back-End, buscando construir 
 
 ## 🎯 Objetivo
 
-Criar interfaces cada vez mais intuitivas, performáticas e visualmente impactantes, enquanto evoluo para desenvolver aplicações completas, do front ao back.
+Evoluir como desenvolvedora Full Stack, criando soluções completas que unam performance, design e experiência do usuário.
 
 ---
 
 ## 📬 Contato
 
-<div> 
+<p align="center"> 
   <a href="https://www.linkedin.com/in/ang%C3%A9lica-lorenz-7ba38328b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
@@ -53,8 +68,10 @@ Criar interfaces cada vez mais intuitivas, performáticas e visualmente impactan
   <a href="mailto:angelicadlorenz@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
-✨ _Sempre aprendendo, criando e evoluindo._
+<p align="center">
+✨ Sempre aprendendo, criando e evoluindo.
+</p>
