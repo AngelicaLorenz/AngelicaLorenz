@@ -22,14 +22,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats-two.vercel.app/api?username=angelicalorenz&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats-two.vercel.app/api/top-langs/?username=angelicalorenz&layout=compact"/>
-</p>
----
-
 ## ✨ Sobre mim
 
 Sou desenvolvedora Front-End com um olhar apurado para design e experiência do usuário.  
