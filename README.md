@@ -25,10 +25,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angelicalorenz&show_icons=true&theme=default"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalorenz&layout=compact"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=angelicalorenz&show_icons=true&theme=default&v=2026"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelicalorenz&layout=compact&v=2026"/>
 </p>
-
 ---
 
 ## ✨ Sobre mim
