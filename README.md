@@ -53,9 +53,7 @@ Evoluir como desenvolvedora Full Stack, criando soluções completas que unam pe
   <a href="https://www.linkedin.com/in/ang%C3%A9lica-lorenz-7ba38328b/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://www.instagram.com/angelicalorenzzz/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a> 
+  
   <a href="mailto:angelicadlorenz@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
