@@ -8,16 +8,11 @@
 💡 Front-End Developer com background em Design Gráfico, criando interfaces modernas e funcionais!
 </p>
 
----
 
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,git,github,vscode,sass"/>
 </p>
 
 ---
