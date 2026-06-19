@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou a Angélica Lorenz 👩‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=000&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;UI+%2F+UX+Lover;Em+evolução+para+Full+Stack" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=000&size=25&center=true&vCenter=true&width=500&lines=Front-End+Developer;Em+especialização+React"/>
 </p>
 
 <p align="center">
