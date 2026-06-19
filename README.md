@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-💡 Front-End Developer com background em Design Gráfico, criando interfaces modernas, funcionais e centradas no usuário.
+💡 Front-End Developer com background em Design Gráfico, criando interfaces modernas e funcionais!
 </p>
 
 ---
@@ -27,7 +27,8 @@
 Sou desenvolvedora Front-End com um olhar apurado para design e experiência do usuário.  
 Minha base no design gráfico me ensinou que cada detalhe importa — e levo isso para o código, criando interfaces modernas, responsivas e eficientes.
 
-Atualmente, estou evoluindo para o Back-End, com foco em construir aplicações completas e bem estruturadas.
+Atualmente, estou me especializando em React através de curso técnico e cursando graduação em Engenharia de Software.
+
 
 ---
 
@@ -36,14 +37,14 @@ Atualmente, estou evoluindo para o Back-End, com foco em construir aplicações 
 - 🔹 Lógica de programação avançada  
 - 🔹 Estrutura de dados  
 - 🔹 APIs e integrações  
-- 🔹 Integração entre Front-End e Back-End  
-- 🔹 Banco de dados  
+- 🔹 React
+- 🔹 Bootstrap 
 
 ---
 
 ## 🎯 Objetivo
 
-Evoluir como desenvolvedora Full Stack, criando soluções completas que unam performance, design e experiência do usuário.
+Evoluir como desenvolvedora Front-End, criando soluções que unam performance, design e experiência do usuário.
 
 ---
 
